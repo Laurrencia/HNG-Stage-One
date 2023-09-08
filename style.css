@@ -58,10 +58,9 @@
 }
 .profile-details p{
     font-size: 16px;
-}
-.profile-details p i{
     font-weight: 600;
 }
+
 .profile-Bottom button{
     background-color:#fff ; 
     outline: none ;
